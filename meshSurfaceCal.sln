@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "meshSurfaceCal", "meshSurfaceCal\meshSurfaceCal.vcxproj", "{BE600CA2-627F-4358-97E3-2181E71EC4CF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BE600CA2-627F-4358-97E3-2181E71EC4CF}.Debug|Win32.ActiveCfg = Debug|Win32
+		{BE600CA2-627F-4358-97E3-2181E71EC4CF}.Debug|Win32.Build.0 = Debug|Win32
+		{BE600CA2-627F-4358-97E3-2181E71EC4CF}.Release|Win32.ActiveCfg = Release|Win32
+		{BE600CA2-627F-4358-97E3-2181E71EC4CF}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
